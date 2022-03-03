@@ -1,2 +1,2 @@
 # Gordo
-Um projeto de um gordo
+Um projeto de um gordo :)
